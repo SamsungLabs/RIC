@@ -5,7 +5,7 @@
 [[Project Page]](https://samsunglabs.github.io/RIC-project-page/) [[ArXiv]](https://arxiv.org/pdf/2307.11932.pdf)
 <br>
 [Isaac Kasahara](https://kasai2020.github.io/), [Shubham Agrawal](https://www.agshubh.com),
-[Selim Engin](https://ksengin.github.io/), [Nikhil Chavan-Dafle](https://www.linkedin.com/in/nikhilcd),
+[Selim Engin](https://ksengin.github.io/), [Nikhil Chavan-Dafle](https://nikhilcd.com),
 [Shuran Song](https://scholar.google.com/citations?user=5031vK4AAAAJ&hl=en&oi=ao), [Volkan Isler](https://www-users.cse.umn.edu/~isler/)
 <br>
 [Samsung AI Center, New York](https://research.samsung.com/aicenter_ny)
